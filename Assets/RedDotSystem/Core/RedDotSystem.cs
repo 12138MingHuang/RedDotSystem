@@ -9,7 +9,7 @@ namespace ZM.RedDotSystem
         /// <summary>
         /// 只显示红点
         /// </summary>
-        None,
+        Normal,
         
         /// <summary>
         /// 节点数字红点，子节点有几个红点，就显示几个数字
