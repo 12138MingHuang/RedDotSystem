@@ -46,7 +46,7 @@ namespace ZM.RedDotSystem
         {
             foreach (RedDotTreeNode item in nodeList)
             {
-                // _redDotLogicDic.Add(item.Define, item);
+                _redDotLogicDic.Add(item.node, item);
             }
         }
 
