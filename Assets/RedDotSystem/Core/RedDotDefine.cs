@@ -16,5 +16,7 @@ namespace ZM.RedDotSystem
         Task_Box1,
         Task_Box2,
         Task_Box3,
+        //背包红点
+        BagRoot
     }
 }
