@@ -11,5 +11,10 @@ namespace ZM.RedDotSystem
         StoreRoot,
         Store_Gold,
         Store_Diamond,
+        //任务红点
+        TaskRoot,
+        Task_Box1,
+        Task_Box2,
+        Task_Box3,
     }
 }
